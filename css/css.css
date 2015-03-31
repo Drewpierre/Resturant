@@ -27,7 +27,7 @@ h3 {
 
 body {
 	font: none 12px "Trebuchet MS", helvetica, sans-serif;
-	color: #525252;
+	color: #F7EFF0;
 	letter-spacing: .15em;
 	margin: 0px;
 }
@@ -88,7 +88,7 @@ h4 {
 	display: inline-block;
 	font-style: italic;
 	font-weight: normal;
-	color: #8a8a8a;
+	color: #FFFFFF;
 	margin: 7px 0 0 0;
 }
 
@@ -160,15 +160,18 @@ header { background-color:#FFFFFF}
   background: #eaeaed;
 }
 .box {
-  background: #FFFFFF;
   float: left;
   margin: 1.858736059%;
   width: 29.615861214%;
 }
-aside{ align-content:center;
-background-color:#FFFFFF;}
+aside{
+	background-color: ;
+	margin-right: 298px;
+	margin-left: 244px;
+	margin-top: 23px;
+	padding-bottom: auto;
+	padding-top: auto;
+}
 
 div { background-image:url(../images/1928853.jpg); }
-footer { background-color:#FFFFFF;}
-
 
