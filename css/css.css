@@ -1,0 +1,173 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	text-align: center;
+	font: none 12px "Trebuchet MS", helvetica, sans-serif;
+	color: #525252;
+	letter-spacing: .15em;
+	margin: 0px;
+	background:
+	/*IE 6,7,8 compatibility*/
+}
+
+h2 {
+	font: bold 14px "Trebuchet MS", helvetica, sans-serif;
+	display: inline;
+	
+}
+
+h3 {
+	font: bold 14px/24px "Trebuchet MS", helvetica, sans-serif;
+	display: inline;
+	margin: 0;
+	padding: 0;
+	color: #c78b18;
+}
+
+
+
+body {
+	font: none 12px "Trebuchet MS", helvetica, sans-serif;
+	color: #525252;
+	letter-spacing: .15em;
+	margin: 0px;
+}
+
+.container {
+	width: 85%;
+	max-width: 960px;
+	margin: 0 auto;	
+}
+
+
+#mainhead {
+	text-align: center;	
+}
+
+#headnav {
+	list-style: none;
+	box-sizing: border-box;
+}
+
+#headnav li {
+	display: inline-block;
+}
+
+#headnav li + li {
+	margin-left: 30px;	
+}
+
+#headnav a:link,
+#headnav a:visited,
+#headnav a:active {
+	text-decoration: none;
+	color: #6f6f6f;
+	font-family: "Trebuchet MS", helvetica, sans-serif;
+	font-size: 11px;
+}
+
+.section {
+	overflow: hidden;	
+}
+
+.about-image {
+	float: left;	
+	margin-right: 30px;
+}
+
+.about-text {
+	overflow: hidden;	
+}
+
+
+
+h4 {
+	font-size: 12px;
+	display: inline-block;
+	font-style: italic;
+	font-weight: normal;
+	color: #8a8a8a;
+	margin: 7px 0 0 0;
+}
+
+h5 {
+	font: bold 28px/24px "Trebuchet MS", helvetica, sans-serif;
+	color: #8a8a8a;
+	margin: 0px;
+	padding: 0px;
+}
+
+p {
+	font: none 12px/24px "Trebuchet MS", helvetica, sans-serif;
+	margin: 0;
+}
+
+a:link,
+a:visited,
+a:active {
+	text-decoration: none;
+	color: #6f6f6f;
+	font-family: "Trebuchet MS", helvetica, sans-serif;
+	font-size: 11px;
+}
+
+a:
+
+#header {
+	width: 100%;
+	height: 278px;
+	overflow: hidden;
+	background: url('../img/bg.jpg') left top repeat;
+	border-bottom: 2px solid #6f6f6f;
+}
+
+header { background-color:#FFFFFF}
+
+
+
+#mainhead {
+	width: 810px;
+	height: 248px;
+	margin: 30px auto 0 auto;
+	padding: 0;
+	position: relative;
+}
+
+
+#headnav {
+	margin: 0;
+	margin: 0;
+	position: absolute;
+	bottom: 20px;
+	right: 0px;
+}
+
+#headnav li {
+	float: right;
+	padding: 0 0 0 40px;
+	list-style: none;
+}
+
+#headnav a:link,
+#headnav a:visited,
+#headnav a:active {
+	font-size: 16px;
+}
+
+.box-set {
+  background: #eaeaed;
+}
+.box {
+  background: #FFFFFF;
+  float: left;
+  margin: 1.858736059%;
+  width: 29.615861214%;
+}
+aside{ align-content:center;
+background-color:#FFFFFF;}
+
+div { background:#D9D9D9;}
+
+footer { background-color:#FFFFFF;}
+
+
